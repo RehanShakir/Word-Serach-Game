@@ -1,0 +1,24 @@
+  0   1   2   3   4   5   6
+0 a   b   t   v   e   l   o  
+
+1 c   a   m   e   r   a   g
+
+2 b   h   t   o   l   l   p
+
+3 q   p   r   y   v   x   q
+
+4 a   p   p   b   o   y   l
+
+5 a   w   e   r   f   g   h
+
+6 c   o   m   s   a   t   s   
+
+7 a   p   e   l   e   m   a   
+
+8 b   p   a   l   s   a   g 
+
+9 v   e   p   a   p   a   o
+
+10 l   n   e   n   a   p   g  
+
+11 o   p   p   o   m   o   a  
